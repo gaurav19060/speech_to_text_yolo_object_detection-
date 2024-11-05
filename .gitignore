@@ -1,0 +1,11 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore YOLO model weights
+yolov8s.pt
+
+# Ignore Python cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.log
